@@ -1,0 +1,7 @@
+Dockerfile
+.git
+.gitignore
+.idea
+rest-docker.iml
+.mvn
+target
